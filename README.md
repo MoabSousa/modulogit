@@ -8,3 +8,5 @@ Alterando o readme 2
 
 Alterando feita no MASTER
 inserindo contato index.html
+
+inserindo pasta JS  e colcoando arquivos  botao.js
